@@ -6,6 +6,7 @@ This repository contains hands-on examples for the RISC-V Summer School. The exa
 
 - `Assembly_Implementation/`: Contains the RISC-V assembly code examples.
 - `C_Implementation/`: Contains the corresponding C code examples.
+- `MachineLearning_fromScratch`: Contains Sample codes in C++ with no special Libraries.
 
 ## Examples
 
